@@ -6,7 +6,7 @@ export default class DetalleDoctor extends Component {
     state = {
         doctor : []
     }
-
+//
     
     loadDoctor = () => {
         var idDoctor = this.props.iddoctor;
